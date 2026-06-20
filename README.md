@@ -1,4 +1,4 @@
-# Atividade Integradora do Módulo 1 - Infinity Shadow
+# Atividade Prática - Introdução aos Jogos Digitais
 
 <img src="logo_senai.png" alt="Logo SENAI" height="28">
 
