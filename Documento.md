@@ -1,30 +1,3 @@
-# Atividade Integradora do Módulo 1
-## Desafio: "Meu Primeiro Conceito de Jogo"
-
-Após concluir as três atividades, cada grupo deverá elaborar uma PROPOSTA SIMPLES DE JOGO contendo:
-
-* **Nome do jogo:** Infinity Shadow.
-* **Gênero:** RPG, Ação e Aventura.
-* **Plataforma:** PC (Steam) e Consoles (Xbox e Playstation).
-* **Público-alvo:** Jogadores dedicados às dificuldade do modo hardcore e Aventura da campanha.
-* **Breve história:** Um protagonista “Kyota” vê sua família ser morta por uma praga causada por um Reino e nisso parte em uma jornada para vingar sua família.
-* **Principais mecânicas:** Objetos/Armas amaldiçoados, Maldições, Sangramento, Doenças, Pragas, Estátuas (Save), Esquiva, Ataque, Defesa.
-* **Profissionais necessários para desenvolver o projeto:** Game-Design, Programador, Artista 3D/2D, Designer de UI/UX, Roteirista, Sound Designer, Compositor, QA Tester.
-
----
-
-### Entregável
-* Documento de 1 a 2 páginas.
-
-### Competências Desenvolvidas
-* Conhecimento histórico dos jogos digitais; Entender a origem e a evolução dos jogos digitais ao longo do tempo.
-* Visão geral da indústria de games; Conhecer o mercado de jogos digitais, sua evolução e sua importância econômica e cultural. 
-* Identificação de gêneros e mecânicas; Conhecer os tipos de jogos e como eles funcionam.
-* Compreensão das profissões do setor; Entender as carreiras e funções da indústria de games. 
-* Desenvolvimento do pensamento criativo aplicado a jogos digitais.
-
----
-
 # Infinity Shadow
 
 Há muitos anos, o mundo era moldado por quatro grandes pilares: os reinos de Histy, Gale, Kist e Noothy. Noothy erguia-se como a nação soberana, mas sua grandeza residia em segredos sombrios; era a terra ancestral de pragas rastejantes e objetos imbuídos por maldições profanas, forjadas por xamãs locais. Nesse mundo, a mente humana jamais foi capaz de dominar um objeto amaldiçoado; eram as armas que controlavam, distorciam e consumiam a carne de seus portadores, usando-os como meras ferramentas de destruição.
