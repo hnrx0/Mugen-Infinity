@@ -8,5 +8,8 @@
 
 [![Atividade 3](https://img.youtube.com/vi/qeJTOLXzPTY/maxresdefault.jpg)](https://youtu.be/qeJTOLXzPTY)
 
-De **Paulo e Guilherme**
+[!Conceito de Jogo](Infinity-Shadow-Slide)
+
+
+De **Infinity Shadow:** *Paulo e Guilherme*
 
