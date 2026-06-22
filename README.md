@@ -2,7 +2,7 @@
 
 <img src="logo_senai.png" alt="Logo SENAI" height="28">
 
-## 📺 Vídeos das Atividades
+## Vídeos das Atividades
 
 [![Atividade 1](https://img.youtube.com/vi/Q39INCee11Y/maxresdefault.jpg)](https://youtu.be/Q39INCee11Y)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📝 Conceito do Jogo
+## Conceito do Jogo
 
 ![Infinity Shadow](Infinity-Shadow.jpg)
 
