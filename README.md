@@ -16,7 +16,7 @@
 
 ![Infinity Shadow](Infinity-Shadow.jpg)
 
-Para ver a história completa e o conceito do jogo, acesse o documento:
+Documento:
 [**Infinity Shadow (História e Conceito)**](Documento.md)
 
 ### Proposta Simples de Jogo
