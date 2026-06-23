@@ -1,6 +1,6 @@
 # Infinity Shadow
 
-Há muitos anos, o mundo era moldado por quatro grandes pilares: os reinos de Histy, Gale, Kist e Noothy. Noothy erguia-se como a nação soberana, mas sua grandeza residia em segredos sombrios; era a terra ancestral de pragas rastejantes e objetos imbuídos por maldições profanas, forjadas por xamãs locais. Nesse mundo, a mente humana jamais foi capaz de dominar um objeto amaldiçoado; eram as armas que controlavam, distorciam e consumiam a carne de seus portadores, usando-os como meras ferramentas de destruição.
+Há muitos anos, o mundo era moldado por quatro grandes pilares: os reinos de Histy, Gale, Kist e Noothy. Noothy erguia-se como a nação soberana, mas sua grandeza residia em segredos sombrios; era a terra ancestral de pragas rastejantes e objetos imbuídos por maldições profanas, forjadas por xamãs locais.
 
 O governante de Noothy, Lastiel Loothyburg, era reverenciado como o herói de todos os grandes reinos após tê-los livrado de uma catástrofe colossal. Contudo, a glória esvaiu-se quando o Salvador supostamente definhou até a morte, consumido pela tuberculose. Seu corpo jamais foi encontrado.
 
