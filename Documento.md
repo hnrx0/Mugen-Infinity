@@ -51,8 +51,7 @@ Os espectros atacavam diretamente a mente de Kyota, projetando ilusões de Frida
 
 ---
 
-## O Confronto nas Catacumbas
-
+## O Confronto nas Catacumba
 Nas profundezas do templo subterrâneo de Noothy, a verdade foi finalmente revelada. Das sombras surgiu Lastiel, o Falso Salvador. Ele trazia o Arco de Hermmit nas costas e a Esfera Tyrh incrustada em seu peito. Ele nunca estivera doente; usou a ambição de Darth como cortina de fumaça para lançar a Corrente do Rancor e reinar do absoluto anonimato.
 
 Ao avançar contra o vilão, Kyota foi repelido com uma velocidade avassaladora, sendo arremessado contra os pilares. Ao se levantar, limpando o sangue do rosto sob a luz fraca das tochas, Lastiel finalmente fixou os olhos na espada e nas mechas brancas do jovem. O vilão estancou, soltando uma gargalhada genuinamente cruel.
@@ -77,4 +76,4 @@ Em um último e desesperado vislumbre de lucidez, lembrando-se do sorriso de Kit
 
 ## Epílogo
 
-Três anos se passaram. As armas restantes de Darth e Lastiel foram caçadas e destruídas pelas nações sobreviventes. Nas profundezas das catacumbas de Noothy, a Lâmina de Sangue permaneceu fincada na rocha, que lentamente petrificou-se ao redor do cadáver de Kyota, assumindo o formato de um guerreiro ajoelhado. Ninguém jamais conseguiu arranhar ou mover a espada dali. A paz voltou ao mundo, guardada pelo eterno e silencioso sacrifício do jovem que preferiu morrer a se tornar o próximo monstro.
+Três anos se passaram. As armas restantes de Darth e Lastiel foram caçadas e destruídas pelas nações sobreviventes. Nas profundezas das catacumbas de Noothy, a Lâmina de Sangue permaneceu fincada na rocha, que lentamente petrificou-se ao redor do cadáver de Kyota, assumindo o formato de um guerreiro ajoelhado. Ninguém jamais conseguiu arranhar ou mover a espada dali. A paz voltou ao mundo, guardada pelo eterno e silencioso sacrifício do jovem que preferiu morrer a se tornar o próximo monstro, Fim.
