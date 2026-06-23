@@ -19,6 +19,8 @@
 Documento:
 [**Infinity Shadow (História e Conceito)**](Documento.md)
 
+Slides: https://canva.link/yju0ew0tbm58xjf
+
 ### Proposta Simples de Jogo
 * **Nome do jogo:** Infinity Shadow.
 * **Gênero:** RPG, Ação e Aventura.
