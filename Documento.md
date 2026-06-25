@@ -27,7 +27,7 @@ Quando retomou a consciência, sua mãe estava morta e mutilada à sua frente. A
 
 ## A Primeira Provação: O Caminho para Gale
 
-A jornada a pé durou quatro meses. Ao cruzar a fronteira de Gale para entrar em território inimigo, Kyota enfrentou seu primeiro grande teste de sobrevivência. As estradas estavam bloqueadas pelos ciadadoes infectados de Gale, antigos moradores do reino que haviam se fundido em uma massa disforme de carne pela Corrente do Rancor.
+A jornada a pé durou quatro meses. Ao cruzar a fronteira de Gale para entrar em território inimigo, Kyota enfrentou seu primeiro grande teste de sobrevivência. As estradas estavam bloqueadas pelos cidadãos infectados de Gale, antigos moradores do reino que haviam se fundido em uma massa disforme de carne pela Corrente do Rancor.
 
 Sem que Kyota quisesse, desenrolar a espada do pano ele vai pra cima dos moradores e ataca eles apenas com a força bruta pois sabia q se usasse a espada a alma dele poderia ser consumida
 
@@ -39,7 +39,7 @@ Em Gale, Darth ordenou que seus quatro melhores cavaleiros caçassem o invasor. 
 
 Darth emergiu do palácio empunhando a Lança Firen. O combate foi brutal. A lança exalava um calor tão insuportável que queimava as vestes de Kyota apenas pela proximidade, enquanto o próprio braço de Darth já estava carbonizado  pelo uso prolongado da arma.
 
-Cedendo mais 5% de sua alma para que a katana vermelha se movesse com velocidade letal, Kyota desviou de uma estocada de fogo e desferiu um corte transversal. A armadura dourada de Darth foi partida ao meio, e o tirano desabou morto. A Lança Firen caiu ao lado do cadáver, fumegando no chão de pedra. Kyota virou as costas e deixou a arma ali; seu objetivo em Gale estava cumprido. No entanto, o céu permaneceu vermelho. A praga continuava activa.
+Cedendo mais 5% de sua alma para que a katana vermelha se movesse com velocidade letal, Kyota desviou de uma estocada de fogo e desferiu um corte transversal. A armadura dourada de Darth foi partida ao meio, e o tirano desabou morto. A Lança Firen caiu ao lado do cadáver, fumegando no chão de pedra. Kyota virou as costas e deixou a arma ali; seu objetivo em Gale estava cumprido. No entanto, o céu permaneceu vermelho. A praga continuava ativa.
 
 ---
 
@@ -52,11 +52,12 @@ Os espectros atacavam diretamente a mente de Kyota, projetando ilusões de Frida
 ---
 
 ## O Confronto nas Catacumba
-Nas profundezas do templo subterrâneo de Noothy, a verdade foi finalmente revelada. Das sombras surgiu Lastiel, o Falso Salvador. Ele trazia o Arco de Hermmit nas costas e a Esfera Tyrh incrustada em seu peito. Ele nunca estivera doente; usou a ambição de Darth como cortina de fumaça para lançar a Corrente do Rancor e reinar do absoluto anonimato.
+
+Nas profundezas do templo subterrâneo de Noothy, a verdade foi finalmente revelada. Das sombras surgiu Lastiel, o falso salvador. Ele trazia o Arco de Hermmit nas costas e a Esfera Tyrh incrustada em seu peito. Ele nunca esteve doente; usou a ambição de Darth como cortina de fumaça para lançar a Corrente do Rancor e reinar do absoluto anonimato.
 
 Ao avançar contra o vilão, Kyota foi repelido com uma velocidade avassaladora, sendo arremessado contra os pilares. Ao se levantar, limpando o sangue do rosto sob a luz fraca das tochas, Lastiel finalmente fixou os olhos na espada e nas mechas brancas do jovem. O vilão estancou, soltando uma gargalhada genuinamente cruel.
 
-> "Então o rio não engoliu você... meu próprio sangue. E você ainda me traz de volta a **Lua, a Lâmina de Sangue**... A Quarta Arma Amaldiçoada que sumiu no dia em que abandonei você para morrer."
+"Então o rio não engoliu você... meu próprio sangue. E você ainda me traz de volta a **Lua, a Lâmina de Sangue**... A Quarta Arma Amaldiçoada que sumiu no dia em que abandonei você para morrer."
 
 A revelação caiu como uma bigorna: o monstro que Kyota cruzara o mundo para matar era Lastiel, seu pai biológico, que o havia descartado na beira do rio após a morte de sua mãe Clarisse.
 
@@ -64,9 +65,9 @@ A revelação caiu como uma bigorna: o monstro que Kyota cruzara o mundo para ma
 
 ## O Sacrifício Final
 
-Sabendo que não havia espaço para humanidade Kyota decide sacrificar mais de sua alma por mais poder, ficando mais rapido mais agressivo e mais forte.
+Sabendo que não havia espaço para humanidade, Kyota decide sacrificar mais de sua alma por mais poder, ficando mais rapido mais agressivo e mais forte.
 
-A batalha final estremeceu as catacumbas. Lastiel disparava flechas apodrecedoras com o Arco de Hermmit, destruindo seus próprios tecidos internos a cada tiro, enquanto a Esfera Tyrh em seu peito drenava o sangue dos mortos ao redor para curá-lo instantaneamente. Mas a Quarta Arma era superior. Kyota entao com seu poder enorme e sua alma cadavez ior com a katana partiu o arco de Lastiel e desferiu um golpe devastador que rasgou o peito do vilão do ombro à cintura. O Falso Salvador desabou na poeira, encontrando seu fim.
+A batalha final estremeceu as catacumbas. Lastiel disparava flechas apodrecedoras com o Arco de Hermmit, destruindo seus próprios tecidos internos a cada tiro, enquanto a Esfera Tyrh em seu peito drenava o sangue dos mortos ao redor para curá-lo instantaneamente. Mas a Quarta Arma era superior. Kyota então com seu poder enorme e sua alma cada vez mais vazia com a katana partiu o arco de Lastiel e desferiu um golpe devastador que rasgou o peito do vilão do ombro à cintura. O Falso Salvador desabou na poeira, encontrando seu fim.
 
 Lá fora, as nuvens vermelhas começaram a sumir. Mas, dentro do templo, a vitória cobrou seu preço. Com 80% da sua alma tomada, o olho direito de Kyota tornou-se completamente vermelho. A consciência maligna da espada rugia em sua mente, pronta para assumir o controle total e usar aquele corpo perfeito para iniciar um novo reinado de sangue.
 
